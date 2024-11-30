@@ -19,7 +19,7 @@ const Hero = () => {
         </div>
         <div className="lg:col-span-6 xs:col-span-12">
         <Image
-          src="/images/image.png"
+          src="/images/banner_image.png"
           alt=""
           width={640}
           height={900}

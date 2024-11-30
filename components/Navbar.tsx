@@ -43,12 +43,12 @@ const Navbar: React.FC<NavbarProps> = ({ navlight }) => {
         />
         <nav className="hidden lg:block">
           <ul className="flex gap-10">
-            <li><Link href="/"><a>Home</a></Link></li>
-            <li><Link href="/courses"><a>Courses</a></Link></li>
-            <li><Link href="/services"><a>Services</a></Link></li>
-            <li><Link href="/achievements"><a>Achievements</a></Link></li>
-            <li><Link href="/about"><a>About Us</a></Link></li>
-            <li><Link href="/testimonials"><a>Testimonials</a></Link></li>
+            <li><Link href="/">Home</Link></li>
+            <li><Link href="/courses">Courses</Link></li>
+            <li><Link href="/services">Services</Link></li>
+            <li><Link href="/achievements">Achievements</Link></li>
+            <li><Link href="/about">About Us</Link></li>
+            <li><Link href="/testimonials">Testimonials</Link></li>
           </ul>
         </nav>
         <div className="hidden lg:flex gap-3">
@@ -67,12 +67,12 @@ const Navbar: React.FC<NavbarProps> = ({ navlight }) => {
             </button>
           </div>
           <ul className="flex flex-col gap-5 text-lg font-medium">
-            <li><Link href="/"><a>Home</a></Link></li>
-            <li><Link href="/courses"><a>Courses</a></Link></li>
-            <li><Link href="/services"><a>Services</a></Link></li>
-            <li><Link href="/achievements"><a>Achievements</a></Link></li>
-            <li><Link href="/about"><a>About Us</a></Link></li>
-            <li><Link href="/testimonials"><a>Testimonials</a></Link></li>
+            <li><Link href="/">Home</Link></li>
+            <li><Link href="/courses">Courses</Link></li>
+            <li><Link href="/services">Services</Link></li>
+            <li><Link href="/achievements">Achievements</Link></li>
+            <li><Link href="/about">About Us</Link></li>
+            <li><Link href="/testimonials">Testimonials</Link></li>
           </ul>
         </div>
       )}
