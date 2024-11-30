@@ -19,9 +19,9 @@ const Section_7 = () => {
             <FaStar className="text-[#000000] text-xl" />
           </div>
           <p>
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             Suspendisse varius enim in eros elementum tristique. Duis cursus, mi
-            quis viverra ornare."
+            quis viverra ornare.
           </p>
             <div className="flex gap-2">
                 <Image
@@ -46,9 +46,9 @@ const Section_7 = () => {
             <FaStar className="text-[#000000] text-xl" />
           </div>
           <p>
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             Suspendisse varius enim in eros elementum tristique. Duis cursus, mi
-            quis viverra ornare."
+            quis viverra ornare.
           </p>
             <div className="flex gap-2">
                 <Image
@@ -73,9 +73,9 @@ const Section_7 = () => {
             <FaStar className="text-[#000000] text-xl" />
           </div>
           <p>
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             Suspendisse varius enim in eros elementum tristique. Duis cursus, mi
-            quis viverra ornare."
+            quis viverra ornare.
           </p>
             <div className="flex gap-2">
                 <Image
