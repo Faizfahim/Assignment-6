@@ -25,7 +25,7 @@ const Footer = () => {
         <div className='grid lg:grid-cols-4 xs:grid-cols-1 xs:gap-10 lg:items-start xs:items-cente lg:text-start xs:text-center'>
           <div className='xs:flex xs:justify-center lg:justify-start'>
             <Image 
-            src='/images/Ddsgnr Library.png'
+            src='/images/Ddsgnr_Library.png'
             alt=''
             width={130}
             height={40}

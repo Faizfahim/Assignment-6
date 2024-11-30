@@ -12,37 +12,37 @@ const Section_1 = () => {
           <div className=''></div>
           <div className='flex gap-2 h-[38px] items-center'>
             <Image
-            src="/images/Airbnb Logo 1.png"
+            src="/images/Airbnb_Logo_1.png"
             alt=""
             width={123}
             height={38}
             />
             <Image
-            src="/images/Airbnb Logo 2.png"
+            src="/images/Airbnb_Logo_2.png"
             alt=""
             width={123}
             height={38}
             />
             <Image
-            src="/images/Airbnb Logo 3.png"
+            src="/images/Airbnb_Logo_3.png"
             alt=""
             width={123}
             height={38}
             />
             <Image
-            src="/images/Airbnb Logo 4.png"
+            src="/images/Airbnb_Logo_4.png"
             alt=""
             width={123}
             height={38}
             />
             <Image
-            src="/images/Airbnb Logo 5.png"
+            src="/images/Airbnb_Logo_5.png"
             alt=""
             width={123}
             height={38}
             />
             <Image
-            src="/images/Airbnb Logo 6.png"
+            src="/images/Airbnb_Logo_6.png"
             alt=""
             width={123}
             height={38}

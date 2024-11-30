@@ -26,7 +26,7 @@ const Section_7 = () => {
             <div className="flex gap-2">
                 <Image
                 className="rounded-full"
-                src='/images/image 3.png'
+                src='/images/image_3.png'
                 alt=""
                 width={56}
                 height={56}
@@ -53,7 +53,7 @@ const Section_7 = () => {
             <div className="flex gap-2">
                 <Image
                 className="rounded-full"
-                src='/images/image 1.png'
+                src='/images/image_1.png'
                 alt=""
                 width={56}
                 height={56}
@@ -80,7 +80,7 @@ const Section_7 = () => {
             <div className="flex gap-2">
                 <Image
                 className="rounded-full"
-                src='/images/image 6.png'
+                src='/images/image_6.png'
                 alt=""
                 width={56}
                 height={56}

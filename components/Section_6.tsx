@@ -16,7 +16,7 @@ const Section_6 = () => {
         <div className='grid lg:grid-cols-3 gap-12 xs:grid-cols-1'>
           <div className='flex flex-col gap-6 justify-center items-center'>
             <Image
-            src="/images/image 1.png"
+            src="/images/image_1.png"
             alt=''
             width={80}
             height={80}
@@ -33,7 +33,7 @@ const Section_6 = () => {
           </div>
           <div className='flex flex-col gap-6 justify-center items-center'>
             <Image
-            src="/images/image 2.png"
+            src="/images/image_2.png"
             alt=''
             width={80}
             height={80}
@@ -50,7 +50,7 @@ const Section_6 = () => {
           </div>
           <div className='flex flex-col gap-6 justify-center items-center'>
             <Image
-            src="/images/image 3.png"
+            src="/images/image_3.png"
             alt=''
             width={80}
             height={80}
@@ -67,7 +67,7 @@ const Section_6 = () => {
           </div>
           <div className='lg:flex flex-col gap-6 justify-center items-center xs:hidden'>
             <Image
-            src="/images/image 4.png"
+            src="/images/image_4.png"
             alt=''
             width={80}
             height={80}
@@ -84,7 +84,7 @@ const Section_6 = () => {
           </div>
           <div className='lg:flex flex-col gap-6 justify-center items-center xs:hidden'>
             <Image
-            src="/images/image 5.png"
+            src="/images/image_5.png"
             alt=''
             width={80}
             height={80}
@@ -101,7 +101,7 @@ const Section_6 = () => {
           </div>
           <div className='lg:flex flex-col gap-6 justify-center items-center xs:hidden'>
             <Image
-            src="/images/image 6.png"
+            src="/images/image_6.png"
             alt=''
             width={80}
             height={80}

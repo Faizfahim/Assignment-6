@@ -20,7 +20,7 @@ const Section_5 = () => {
           <div className='w-[416px] h-[534px] flex flex-col gap-6 bg-[#F7F7F7] rounded-[5px]'>
             <div>
               <Image
-                src='/images/design 1.png'
+                src='/images/design_1.png'
                 alt=''
                 width={416}
                 height={300}
@@ -45,7 +45,7 @@ const Section_5 = () => {
           <div className='w-[416px] h-[534px] flex flex-col gap-6 bg-[#F7F7F7] rounded-[5px]'>
           <div>
               <Image
-                src='/images/design 2.png'
+                src='/images/design_2.png'
                 alt=''
                 width={416}
                 height={300}
@@ -70,7 +70,7 @@ const Section_5 = () => {
           <div className='w-[416px] h-[534px] flex flex-col gap-6 bg-[#F7F7F7] rounded-[5px]'>
           <div>
               <Image
-                src='/images/design 3.png'
+                src='/images/design_3.png'
                 alt=''
                 width={416}
                 height={300}
@@ -95,7 +95,7 @@ const Section_5 = () => {
           <div className='w-[416px] h-[534px] lg:flex flex-col gap-6 bg-[#F7F7F7] rounded-[5px] xs:hidden'>
             <div>
               <Image
-                src='/images/design 4.png'
+                src='/images/design_4.png'
                 alt=''
                 width={416}
                 height={300}
@@ -120,7 +120,7 @@ const Section_5 = () => {
           <div className='w-[416px] h-[534px] lg:flex flex-col gap-6 bg-[#F7F7F7] rounded-[5px] xs:hidden'>
           <div>
               <Image
-                src='/images/design 5.png'
+                src='/images/design_5.png'
                 alt=''
                 width={416}
                 height={300}
@@ -145,7 +145,7 @@ const Section_5 = () => {
           <div className='w-[416px] h-[534px] lg:flex flex-col gap-6 bg-[#F7F7F7] rounded-[5px] xs:hidden'>
           <div>
               <Image
-                src='/images/design 6.png'
+                src='/images/design_6.png'
                 alt=''
                 width={416}
                 height={300}

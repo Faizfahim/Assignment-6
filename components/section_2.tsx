@@ -12,7 +12,7 @@ const Section_2 = () => {
             <div className='bg-[#F7F7F7] w-[410px] h-[132px] py-3 rounded-lg'>
                 <div className='flex gap-3 justify-center items-center'>
                     <Image 
-                    src="/images/Frame 292 1.png"
+                    src="/images/Frame_292_1.png"
                     alt=""
                     width={100}
                     height={100}
@@ -26,7 +26,7 @@ const Section_2 = () => {
             <div className='bg-[#F7F7F7] w-[410px] h-[132px] py-3 rounded-lg'>
                 <div className=' flex gap-3 justify-center items-center'>
                     <Image 
-                    src="/images/Frame 292 2.png"
+                    src="/images/Frame_292_2.png"
                     alt=""
                     width={100}
                     height={100}
@@ -40,7 +40,7 @@ const Section_2 = () => {
             <div className='bg-[#F7F7F7] w-[410px] h-[132px] py-3 rounded-lg'>
                 <div className=' flex gap-3 justify-center items-center'>
                     <Image 
-                    src="/images/Frame 292 3.png"
+                    src="/images/Frame_292_3.png"
                     alt=""
                     width={100}
                     height={100}
@@ -56,7 +56,7 @@ const Section_2 = () => {
             <div className='bg-[#F7F7F7] w-[410px] h-[132px] py-3  rounded-lg'>
                 <div className=' flex gap-3 justify-center items-center'>
                     <Image 
-                    src="/images/Frame 292 4.png"
+                    src="/images/Frame_292_4.png"
                     alt=""
                     width={100}
                     height={100}
@@ -70,7 +70,7 @@ const Section_2 = () => {
             <div className='bg-[#F7F7F7] w-[410px] h-[132px] py-3  rounded-lg'>
                 <div className=' flex gap-3 justify-center items-center'>
                     <Image 
-                    src="/images/Frame 292 5.png"
+                    src="/images/Frame_292_5.png"
                     alt=""
                     width={100}
                     height={100}
@@ -84,7 +84,7 @@ const Section_2 = () => {
             <div className='bg-[#F7F7F7] w-[410px] h-[132px] py-3  rounded-lg'>
                 <div className=' flex gap-3 justify-center items-center'>
                     <Image 
-                    src="/images/Frame 292 6.png"
+                    src="/images/Frame_292_6.png"
                     alt=""
                     width={100}
                     height={100}
@@ -100,7 +100,7 @@ const Section_2 = () => {
             <div className='bg-[#F7F7F7] w-[410px] h-[132px] py-3 rounded-lg'>
                 <div className=' flex gap-3 justify-center items-center'>
                     <Image 
-                    src="/images/Frame 292 7.png"
+                    src="/images/Frame_292_7.png"
                     alt=""
                     width={100}
                     height={100}
@@ -114,7 +114,7 @@ const Section_2 = () => {
             <div className='bg-[#F7F7F7] w-[410px] h-[132px] py-3 rounded-lg'>
                 <div className=' flex gap-3 justify-center items-center'>
                     <Image 
-                    src="/images/Frame 292 8.png"
+                    src="/images/Frame_292_8.png"
                     alt=""
                     width={100}
                     height={100}
@@ -128,7 +128,7 @@ const Section_2 = () => {
             <div className='bg-[#F7F7F7] w-[410px] h-[132px] py-3 rounded-lg'>
                 <div className=' flex gap-3 justify-center items-center'>
                     <Image 
-                    src="/images/Frame 292 9.png"
+                    src="/images/Frame_292_9.png"
                     alt=""
                     width={100}
                     height={100}

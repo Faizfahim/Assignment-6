@@ -36,7 +36,7 @@ const Navbar: React.FC<NavbarProps> = ({ navlight }) => {
     >
       <div className="container flex justify-between items-center">
         <Image
-          src="/images/Ddsgnr Library.png"
+          src="/images/Ddsgnr_Library.png"
           alt="Logo"
           width={130}
           height={30}
